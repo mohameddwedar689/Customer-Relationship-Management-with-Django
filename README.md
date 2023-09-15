@@ -32,5 +32,61 @@ I built this project with Django, MySQL and bootstrap. In this project, We'll be
 
 ![Delete](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/ca23289e-e3f0-4fbf-afe8-b0a06b64c92d)
 
+# How to Install and Run the Project on windows
 
+To get this project up and running you should start by having Python installed on your computer. It's advised you create a virtual environment to store your projects dependencies separately. 
+
+1. You can install virtualenv with
+
+```bash
+ pip install virtualenv
+```
+
+2. Create project directory
+
+```bash
+mkdir Django-Project
+```
+
+3. Go to the project directory
+
+```bash
+cd Django-Project
+```
+
+4. Create virtual environment
+
+```bash
+virtualenv virt
+```
+
+5. Activate virtual environment
+
+```bash
+source virt/Scripts/activate
+```
+
+6. Clone my project using this command
+
+```bash
+git clone https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django.git
+```
+
+7. Go to the project directory
+
+```bash
+cd dcrm
+```
+
+8.  install requirements using this command
+
+```bash
+pip install -r requirment.txt
+```
+
+9. Finally we can see the result with this command
+
+```bash
+python maanage.py runserver
+```
 
