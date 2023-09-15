@@ -6,6 +6,8 @@ I built this project with Django, MySQL and bootstrap. In this project, We'll be
 
 # Quick Demo
 
+https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/15f1adf9-5664-4f9c-b5a9-bda425a9f0cb
+
 # Features
 
 ## Register
