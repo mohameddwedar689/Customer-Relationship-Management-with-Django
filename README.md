@@ -92,3 +92,7 @@ pip install -r requirment.txt
 python maanage.py runserver
 ```
 
+# Feedback and Contact
+
+Feel free to review, provide feedback and you can reach out to me if you have any questions or suggestions on my [LinkedIn](https://www.linkedin.com/in/mohamed-dwedar/)
+
