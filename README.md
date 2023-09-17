@@ -6,33 +6,37 @@ I built this project with Django, MySQL and bootstrap. In this project, We'll be
 
 # Quick Demo
 
-https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/46a947f8-83e7-4e41-863d-798684306466
+https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/d21a3e11-0fa7-4258-a7ad-0e188b0a4130
 
 # Features
 
 ## Register
 
-![register](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/3702c25c-5dac-4b26-8484-ee8fdc1f19bb)
+![register](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/e19c0d0b-d712-4101-a4d6-7d6942e395ac)
 
 ## Login 
 
-![login](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/87211659-2ec8-44c3-81fc-3b85207ab62d)
+![login](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/266cb988-21b7-4f1c-af23-83944d05df6b)
 
 ## Home (read)
 
-![h1ome](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/aeb580de-6faf-4146-817f-0886ec8ec399)
+![h1ome](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/84abdbe0-8a1e-4e91-a6aa-03b8a7188d67)
+
 
 ## Add Record (create)
 
-![Create](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/29c8fe21-b66e-4f0b-be71-b76a281559b4)
+![Create](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/81e7718f-6f7e-4e27-8cda-43f4742f8fb9)
+
 
 ## Edit Record (update)
 
-![Update](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/8c7a29f8-fe24-4c41-8d96-a3327eab836e)
+![Update](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/03705336-91a8-4f22-a99f-df13c597e0d9)
+
 
 ## Delete Record (delete)
 
-![Delete](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/ca23289e-e3f0-4fbf-afe8-b0a06b64c92d)
+![Delete](https://github.com/mohameddwedar689/Customer-Relationship-Management-with-Django/assets/77099631/a93c9a13-7446-4f15-b682-dad0159ec2aa)
+
 
 # How to Install and Run the Project on windows
 
